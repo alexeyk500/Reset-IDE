@@ -1,0 +1,9 @@
+Чтобы снова начать использовать триальную версию PhpStorm вам нужно будет:
+
+в Mac Os (MacOs) удалить файл 
+/Users/your_name/Library/Application Support/JetBrains/PhpStorm2020.2/eval/PhpStorm202.evaluation.key
+
+
+Go here: https://www.jetbrains.com/webstorm/download/other.html
+
+Download Version 2021.2.2
